@@ -7,4 +7,6 @@
    <legend> So, what can i say about my first finished project is: All attetion is needed. one dot wrong and buuummmm! your code dont work.
     About the code i think is easy in this stage because is just u know each element and attribute do and can u do everything.
    </legend>
+   <li> <a href="https://github.com/markosalvesp/Cafe-Menu"> Cafe Menu </a> </li><br>
+   <legend> CSS is pretty hard 
 </ol>
